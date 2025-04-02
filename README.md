@@ -1,2 +1,2 @@
 # RS_T2I
-Code release soon！
+Code will be released soon！
